@@ -50,12 +50,12 @@ function didPressChooesImage(that) {
         },
         {
           region: 'ECN', // 华北区
-            //  uptokenURL: 'https://[yourserver.com]/api/uptoken',
+          //  uptokenURL: 'https://[yourserver.com]/api/uptoken',
           uptoken: 'q9yEX7UMlOVNgK37K8GjcgPCktQYoYNJp-JREc5A:EIhXYIkqDWUtkSaErcFZEjArLio=:eyJzY29wZSI6ImltYWdlOnRlc3QvMTgxMjE5L3doYXQtaXMtcHl0aG9uLnBuZyIsImRlYWRsaW5lIjoxNTQ1MjA0NjQxfQ==',
-             domain: 'https://sslqn.iamlj.com',
-             shouldUseQiniuFileName: false,
+          domain: 'https://sslqn.iamlj.com',
+          shouldUseQiniuFileName: false,
           key: 'test/181219/what-is-python.png',
-             uptokenURL: 'myServer.com/api/uptoken'
+          uptokenURL: 'myServer.com/api/uptoken'
          },
         //null,// 可以使用上述参数，或者使用 null 作为参数占位符
         (progress) => {
